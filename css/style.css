@@ -1,0 +1,94 @@
+/** header **/
+.hdr {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    height: 84px;
+    width: 1440px;
+    position: fixed;
+}
+
+.geolab {
+    width: 33px;
+    height: 42px;
+    margin-left: 99px;
+    margin-right: 676px;
+}
+
+.header_text {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+/** დიდი ფოტო **/
+.container_big {
+    width: 1440px;
+    height: 606px;
+    margin-bottom: 84px;
+}
+
+.container_text1 {
+    color: #ffffff;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    top: 238px;
+    left: 407px;
+}
+
+.container_text2 {
+    color: #ffffff;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    top: 360px;
+    left: 553px;
+}
+
+/** დანარჩენი საიტი **/
+
+h1 {
+    color: #000000;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+
+h2 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container {
+    width: 286px;
+    margin-right: 33px;
+    margin-bottom: 56px;
+    display: inline-block;
+}
+
+.box {
+    margin-left: 100px;
+    width: 235px;
+    margin-right: 83px;
+    display: inline-block;
+}
